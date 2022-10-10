@@ -2,10 +2,10 @@
 
 I'm **Adam Martinovic**, a previous tradesman, audio producer and sales person who discovered a passion for app development. 
 
-## I am a husband, a newly knighted father and a developer!
-- 🔭 I’m currently working on building my github repo with my own projects
-- 🌱 I’m currently learning ... HarvardX CS50W and React JS
-- 🤔 I’m looking for help with finding an entry level job!
+## I am a husband, a father and a developer!
+- 🔭 I’m currently working on building up my github repo.
+- 🌱 I’m currently enhancing my React JS skills and learning about new libraries and frameworks.
+- 🤔 I’m looking for help to grow further as a developer!
 - 💬 Ask me about anything and everything (Even though I may not have an answer)
 - ⚡ Fun fact: My first website was made on Yahoo Geocities when I was 12 years old.
 
